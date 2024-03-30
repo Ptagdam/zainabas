@@ -1,0 +1,22 @@
+{
+   "owner": "923393950000",
+   "owner_name": "Iyuzaki Yanagi",
+   "database": "data",
+   "limit": 10000005,
+   "ram_limit": "902020200mb",
+   "max_upload": 520000,
+   "max_upload_free": 20202010,
+   "cooldown": 3,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "91", "95"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 923393950000
+   },
+   "replit_url": ""
+}
